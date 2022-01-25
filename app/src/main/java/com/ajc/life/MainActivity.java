@@ -49,6 +49,4 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
         Log.d("TAG", "onDestroy - MainActivity");
     }
-
-
 }
